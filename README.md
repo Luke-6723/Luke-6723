@@ -7,5 +7,3 @@ I'm Luke, I develop thing as a hobby currently, and most of my things are closed
 - [Hellhouse Community](https://hellhouse.xyz) -- Community for everyone to chill
 
 I have a few other projects that will soon be added here but they are currently private.
-
-### [Join my discord to come learn more about me :D](https://discord.gg/UV9pWHD)
