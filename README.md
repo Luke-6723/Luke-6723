@@ -10,11 +10,14 @@ I'm Luke, I develop thing as a hobby currently, and most of my things are closed
 
 I have a few other projects that will soon be added here but they are currently private.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-6723" />
-
 <a href="https://github.com/Luke-6723">
   <img src="https://komarev.com/ghpvc/?username=Luke-6723&style=flat-square" />
 </a>
 <a href="https://github.com/Luke-6723">
   <img src="https://img.shields.io/github/followers/Luke-6723?style=social" />
 </a>
+
+Some Statistics:
+![Stats](https://github-readme-stats.vercel.app/api?username=Luke-6723&show_icons=true&count_private=true&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-6723&layout=compact&theme=cobalt)
+
