@@ -16,6 +16,6 @@ I have a few other projects that will soon be added here but they are currently 
 </a>
 
 Some Statistics:<br>
-![Stats](https://github-readme-stats.vercel.app/api?username=Luke-6723&show_icons=true&count_private=true&theme=cobalt)
+![Stats](https://github-readme-stats.vercel.app/api?username=Luke-6723&show_icons=true&count_private=true&theme=cobalt)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-6723&layout=compact&theme=cobalt)
 
