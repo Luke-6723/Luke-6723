@@ -8,12 +8,8 @@
 
 I have a few other projects that will soon be added here but they are currently private.
 
-<a style="text-decoration: none" href="https://github.com/Luke-6723">
-  <img src="https://komarev.com/ghpvc/?username=Luke-6723&style=flat-square" />
-</a><!--
---><a href="https://github.com/Luke-6723">
-  <img src="https://img.shields.io/github/followers/Luke-6723?style=social" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Luke-6723&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Luke-6723?style=social" />
 
 Some Statistics:<br>
 
