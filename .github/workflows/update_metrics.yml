@@ -7,7 +7,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: @Luke-6723/metrics@latest
+      - uses: Luke-6723/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
