@@ -1,5 +1,5 @@
 ### ❓ Who am I?
-![GitHub metrics](https://metrics.lecoq.io/Luke-6723?languages=1&followup=1)<br><br>
+![GitHub metrics](https://metrics.lecoq.io/Luke-6723?languages=1&followup=1)<br>
 
 ### 💻 What am I currently working on?
 - [DBL Statistics](https://dblstats.com) -- Analytical data for bot's listed on [top.gg](https://top.gg)
