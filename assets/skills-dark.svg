@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="572" viewBox="0 0 1200 572" role="img" aria-label="Languages: TypeScript, JavaScript, SQL, Python, Go, PHP, GraphQL. Frontend: React, Next.js, React Native, Expo. Backend: Node.js, Fastify, Express, REST APIs, GraphQL APIs. Testing: Cypress, Browser testing, QA pipelines, Pre-commit checks. Data: ClickHouse, TimescaleDB, PostgreSQL, MongoDB, Grafana. DevOps: Docker, Docker Swarm, Docker Compose, CI/CD, GitHub Actions runners, Kong Gateway, Linux, AWS, Hetzner. Other: Agile, WordPress, Plesk, Cisco firewalls, Windows domain admin">
+<title>Languages: TypeScript, JavaScript, SQL, Python, Go, PHP, GraphQL. Frontend: React, Next.js, React Native, Expo. Backend: Node.js, Fastify, Express, REST APIs, GraphQL APIs. Testing: Cypress, Browser testing, QA pipelines, Pre-commit checks. Data: ClickHouse, TimescaleDB, PostgreSQL, MongoDB, Grafana. DevOps: Docker, Docker Swarm, Docker Compose, CI/CD, GitHub Actions runners, Kong Gateway, Linux, AWS, Hetzner. Other: Agile, WordPress, Plesk, Cisco firewalls, Windows domain admin</title>
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}</style>
+<rect x="1" y="1" width="1198" height="570" rx="16" fill="#0c0e1a" stroke="#1c2036" stroke-width="2"/>
+<text x="40" y="54" font-size="14" font-weight="600" letter-spacing="1.2" fill="#a1a1aa">LANGUAGES</text>
+<rect x="40.0" y="68" width="126.6" height="38" rx="8" fill="#161a2c"/>
+<text x="103.3" y="93" font-size="17" text-anchor="middle" fill="#fafafa">TypeScript</text>
+<rect x="174.6" y="68" width="126.6" height="38" rx="8" fill="#161a2c"/>
+<text x="237.9" y="93" font-size="17" text-anchor="middle" fill="#fafafa">JavaScript</text>
+<rect x="309.2" y="68" width="57.6" height="38" rx="8" fill="#161a2c"/>
+<text x="338.0" y="93" font-size="17" text-anchor="middle" fill="#fafafa">SQL</text>
+<rect x="374.8" y="68" width="87.2" height="38" rx="8" fill="#161a2c"/>
+<text x="418.4" y="93" font-size="17" text-anchor="middle" fill="#fafafa">Python</text>
+<rect x="469.9" y="68" width="47.7" height="38" rx="8" fill="#161a2c"/>
+<text x="493.8" y="93" font-size="17" text-anchor="middle" fill="#fafafa">Go</text>
+<rect x="40.0" y="114" width="57.6" height="38" rx="8" fill="#161a2c"/>
+<text x="68.8" y="139" font-size="17" text-anchor="middle" fill="#fafafa">PHP</text>
+<rect x="105.6" y="114" width="97.0" height="38" rx="8" fill="#161a2c"/>
+<text x="154.1" y="139" font-size="17" text-anchor="middle" fill="#fafafa">GraphQL</text>
+<text x="40" y="196" font-size="14" font-weight="600" letter-spacing="1.2" fill="#a1a1aa">FRONTEND</text>
+<rect x="40.0" y="210" width="77.3" height="38" rx="8" fill="#161a2c"/>
+<text x="78.7" y="235" font-size="17" text-anchor="middle" fill="#fafafa">React</text>
+<rect x="125.3" y="210" width="97.0" height="38" rx="8" fill="#161a2c"/>
+<text x="173.8" y="235" font-size="17" text-anchor="middle" fill="#fafafa">Next.js</text>
+<rect x="230.3" y="210" width="146.3" height="38" rx="8" fill="#161a2c"/>
+<text x="303.5" y="235" font-size="17" text-anchor="middle" fill="#fafafa">React Native</text>
+<rect x="384.6" y="210" width="67.4" height="38" rx="8" fill="#161a2c"/>
+<text x="418.4" y="235" font-size="17" text-anchor="middle" fill="#fafafa">Expo</text>
+<text x="40" y="292" font-size="14" font-weight="600" letter-spacing="1.2" fill="#a1a1aa">BACKEND</text>
+<rect x="40.0" y="306" width="97.0" height="38" rx="8" fill="#161a2c"/>
+<text x="88.5" y="331" font-size="17" text-anchor="middle" fill="#fafafa">Node.js</text>
+<rect x="145.0" y="306" width="97.0" height="38" rx="8" fill="#161a2c"/>
+<text x="193.5" y="331" font-size="17" text-anchor="middle" fill="#fafafa">Fastify</text>
+<rect x="250.0" y="306" width="97.0" height="38" rx="8" fill="#161a2c"/>
+<text x="298.5" y="331" font-size="17" text-anchor="middle" fill="#fafafa">Express</text>
+<rect x="355.1" y="306" width="116.7" height="38" rx="8" fill="#161a2c"/>
+<text x="413.4" y="331" font-size="17" text-anchor="middle" fill="#fafafa">REST APIs</text>
+<rect x="40.0" y="352" width="146.3" height="38" rx="8" fill="#161a2c"/>
+<text x="113.2" y="377" font-size="17" text-anchor="middle" fill="#fafafa">GraphQL APIs</text>
+<text x="40" y="434" font-size="14" font-weight="600" letter-spacing="1.2" fill="#a1a1aa">TESTING</text>
+<rect x="40.0" y="448" width="97.0" height="38" rx="8" fill="#161a2c"/>
+<text x="88.5" y="473" font-size="17" text-anchor="middle" fill="#fafafa">Cypress</text>
+<rect x="145.0" y="448" width="175.9" height="38" rx="8" fill="#161a2c"/>
+<text x="233.0" y="473" font-size="17" text-anchor="middle" fill="#fafafa">Browser testing</text>
+<rect x="328.9" y="448" width="146.3" height="38" rx="8" fill="#161a2c"/>
+<text x="402.1" y="473" font-size="17" text-anchor="middle" fill="#fafafa">QA pipelines</text>
+<rect x="40.0" y="494" width="195.6" height="38" rx="8" fill="#161a2c"/>
+<text x="137.8" y="519" font-size="17" text-anchor="middle" fill="#fafafa">Pre-commit checks</text>
+<text x="620" y="54" font-size="14" font-weight="600" letter-spacing="1.2" fill="#a1a1aa">DATA</text>
+<rect x="620.0" y="68" width="126.6" height="38" rx="8" fill="#161a2c"/>
+<text x="683.3" y="93" font-size="17" text-anchor="middle" fill="#fafafa">ClickHouse</text>
+<rect x="754.6" y="68" width="136.5" height="38" rx="8" fill="#161a2c"/>
+<text x="822.8" y="93" font-size="17" text-anchor="middle" fill="#fafafa">TimescaleDB</text>
+<rect x="899.1" y="68" width="126.6" height="38" rx="8" fill="#161a2c"/>
+<text x="962.4" y="93" font-size="17" text-anchor="middle" fill="#fafafa">PostgreSQL</text>
+<rect x="1033.7" y="68" width="97.0" height="38" rx="8" fill="#161a2c"/>
+<text x="1082.2" y="93" font-size="17" text-anchor="middle" fill="#fafafa">MongoDB</text>
+<rect x="620.0" y="114" width="97.0" height="38" rx="8" fill="#161a2c"/>
+<text x="668.5" y="139" font-size="17" text-anchor="middle" fill="#fafafa">Grafana</text>
+<text x="620" y="196" font-size="14" font-weight="600" letter-spacing="1.2" fill="#a1a1aa">DEVOPS</text>
+<rect x="620.0" y="210" width="87.2" height="38" rx="8" fill="#161a2c"/>
+<text x="663.6" y="235" font-size="17" text-anchor="middle" fill="#fafafa">Docker</text>
+<rect x="715.2" y="210" width="146.3" height="38" rx="8" fill="#161a2c"/>
+<text x="788.3" y="235" font-size="17" text-anchor="middle" fill="#fafafa">Docker Swarm</text>
+<rect x="869.5" y="210" width="166.0" height="38" rx="8" fill="#161a2c"/>
+<text x="952.5" y="235" font-size="17" text-anchor="middle" fill="#fafafa">Docker Compose</text>
+<rect x="1043.5" y="210" width="77.3" height="38" rx="8" fill="#161a2c"/>
+<text x="1082.2" y="235" font-size="17" text-anchor="middle" fill="#fafafa">CI/CD</text>
+<rect x="620.0" y="256" width="244.9" height="38" rx="8" fill="#161a2c"/>
+<text x="742.5" y="281" font-size="17" text-anchor="middle" fill="#fafafa">GitHub Actions runners</text>
+<rect x="872.9" y="256" width="146.3" height="38" rx="8" fill="#161a2c"/>
+<text x="946.1" y="281" font-size="17" text-anchor="middle" fill="#fafafa">Kong Gateway</text>
+<rect x="1027.2" y="256" width="77.3" height="38" rx="8" fill="#161a2c"/>
+<text x="1065.9" y="281" font-size="17" text-anchor="middle" fill="#fafafa">Linux</text>
+<rect x="620.0" y="302" width="57.6" height="38" rx="8" fill="#161a2c"/>
+<text x="648.8" y="327" font-size="17" text-anchor="middle" fill="#fafafa">AWS</text>
+<rect x="685.6" y="302" width="97.0" height="38" rx="8" fill="#161a2c"/>
+<text x="734.1" y="327" font-size="17" text-anchor="middle" fill="#fafafa">Hetzner</text>
+<text x="620" y="384" font-size="14" font-weight="600" letter-spacing="1.2" fill="#a1a1aa">OTHER</text>
+<rect x="620.0" y="398" width="77.3" height="38" rx="8" fill="#161a2c"/>
+<text x="658.6" y="423" font-size="17" text-anchor="middle" fill="#fafafa">Agile</text>
+<rect x="705.3" y="398" width="116.7" height="38" rx="8" fill="#161a2c"/>
+<text x="763.7" y="423" font-size="17" text-anchor="middle" fill="#fafafa">WordPress</text>
+<rect x="830.0" y="398" width="77.3" height="38" rx="8" fill="#161a2c"/>
+<text x="868.7" y="423" font-size="17" text-anchor="middle" fill="#fafafa">Plesk</text>
+<rect x="915.3" y="398" width="175.9" height="38" rx="8" fill="#161a2c"/>
+<text x="1003.3" y="423" font-size="17" text-anchor="middle" fill="#fafafa">Cisco firewalls</text>
+<rect x="620.0" y="444" width="225.2" height="38" rx="8" fill="#161a2c"/>
+<text x="732.6" y="469" font-size="17" text-anchor="middle" fill="#fafafa">Windows domain admin</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-label="TopStats.gg (topstats.gg): Analytics for game servers, Discord bots and backends. SDKs for 12 languages plus 17 framework and game integrations.">
+<title>TopStats.gg (topstats.gg): Analytics for game servers, Discord bots and backends. SDKs for 12 languages plus 17 framework and game integrations.</title>
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}</style>
+<defs><clipPath id="ctopstats"><rect x="1" y="1" width="598" height="238" rx="14"/></clipPath></defs>
+<g clip-path="url(#ctopstats)">
+  <rect width="600" height="240" fill="#0c0e1a"/>
+  <rect y="180" width="600" height="60" fill="#080a14"/>
+  <line x1="0" y1="180" x2="600" y2="180" stroke="#1c2036" stroke-width="1.5"/>
+  
+  <text x="75.8" y="217" font-size="16" text-anchor="middle" fill="#a1a1aa">TypeScript</text>
+  <line x1="150.5" y1="180" x2="150.5" y2="240" stroke="#1c2036" stroke-width="1.5"/>
+  <text x="225.3" y="217" font-size="16" text-anchor="middle" fill="#a1a1aa">Go</text>
+  <line x1="300" y1="180" x2="300" y2="240" stroke="#1c2036" stroke-width="1.5"/>
+  <text x="374.8" y="217" font-size="16" text-anchor="middle" fill="#a1a1aa">12 SDKs</text>
+  <line x1="449.5" y1="180" x2="449.5" y2="240" stroke="#1c2036" stroke-width="1.5"/>
+  <text x="524.3" y="217" font-size="16" text-anchor="middle" fill="#a1a1aa">17 integrations</text>
+</g>
+<rect x="1" y="1" width="598" height="238" rx="14" fill="none" stroke="#1c2036" stroke-width="2"/>
+
+<rect x="26" y="28" width="64" height="64" rx="12" fill="#161a2c"/>
+<g transform="translate(43 45)"><g fill="#8a9de4"><rect x="2" y="16" width="7" height="12" rx="1.5"/><rect x="12" y="9" width="7" height="19" rx="1.5"/><rect x="22" y="2" width="7" height="26" rx="1.5"/></g></g>
+<text x="108" y="58" font-size="27" font-weight="800" letter-spacing="-.8" fill="#fafafa">TopStats.gg</text>
+<text x="572" y="56" font-size="16" text-anchor="end" fill="#a1a1aa">topstats.gg</text>
+<text x="108" y="92" font-size="18" fill="#a1a1aa">Analytics for game servers, Discord bots and</text>
+<text x="108" y="118" font-size="18" fill="#a1a1aa">backends. SDKs for 12 languages plus 17</text>
+<text x="108" y="144" font-size="18" fill="#a1a1aa">framework and game integrations.</text>
+</svg>
